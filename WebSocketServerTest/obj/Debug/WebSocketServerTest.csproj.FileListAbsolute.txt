@@ -1,0 +1,9 @@
+C:\Users\MSI GS66 Stealth\RiderProjects\WebSocketServerTest\WebSocketServerTest\bin\Debug\WebSocketServerTest.exe
+C:\Users\MSI GS66 Stealth\RiderProjects\WebSocketServerTest\WebSocketServerTest\bin\Debug\WebSocketServerTest.pdb
+C:\Users\MSI GS66 Stealth\RiderProjects\WebSocketServerTest\WebSocketServerTest\bin\Debug\websocket-sharp.dll
+C:\Users\MSI GS66 Stealth\RiderProjects\WebSocketServerTest\WebSocketServerTest\bin\Debug\websocket-sharp.xml
+C:\Users\MSI GS66 Stealth\RiderProjects\WebSocketServerTest\WebSocketServerTest\obj\Debug\WebSocketServerTest.csproj.AssemblyReference.cache
+C:\Users\MSI GS66 Stealth\RiderProjects\WebSocketServerTest\WebSocketServerTest\obj\Debug\WebSocketServerTest.csproj.CoreCompileInputs.cache
+C:\Users\MSI GS66 Stealth\RiderProjects\WebSocketServerTest\WebSocketServerTest\obj\Debug\WebSocketServerTest.csproj.CopyComplete
+C:\Users\MSI GS66 Stealth\RiderProjects\WebSocketServerTest\WebSocketServerTest\obj\Debug\WebSocketServerTest.exe
+C:\Users\MSI GS66 Stealth\RiderProjects\WebSocketServerTest\WebSocketServerTest\obj\Debug\WebSocketServerTest.pdb
