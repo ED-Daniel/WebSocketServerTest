@@ -7,13 +7,13 @@ namespace WebSocketServerTest
 {
     public class EchoWebSocketBehaviorFactory
     {
-        private static EchoWebSocketBehaviorFactory instance;
+        private static EchoWebSocketBehaviorFactory _instance;
 
         private EchoWebSocketBehaviorFactory() { }
 
         public static EchoWebSocketBehaviorFactory GetInstance()
         {
-            return instance ?? (instance = new EchoWebSocketBehaviorFactory());
+            return _instance ?? (_instance = new EchoWebSocketBehaviorFactory());
         }
 
         private readonly List<Echo> _connections = new List<Echo>();
